@@ -1,7 +1,5 @@
 package com.ibeifeng.senior.kafka.consumer.lower;
 
-import scala.util.parsing.combinator.testing.Str;
-
 /**
  * Created by ibf on 01/11.
  */
